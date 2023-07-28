@@ -1,0 +1,8 @@
+C:\data\ShellSort(assisted)\ShellSort(assisted)\bin\Debug\ShellSort(assisted).exe.config
+C:\data\ShellSort(assisted)\ShellSort(assisted)\bin\Debug\ShellSort(assisted).exe
+C:\data\ShellSort(assisted)\ShellSort(assisted)\bin\Debug\ShellSort(assisted).pdb
+C:\data\ShellSort(assisted)\ShellSort(assisted)\obj\Debug\ShellSort(assisted).csproj.AssemblyReference.cache
+C:\data\ShellSort(assisted)\ShellSort(assisted)\obj\Debug\ShellSort(assisted).csproj.SuggestedBindingRedirects.cache
+C:\data\ShellSort(assisted)\ShellSort(assisted)\obj\Debug\ShellSort(assisted).csproj.CoreCompileInputs.cache
+C:\data\ShellSort(assisted)\ShellSort(assisted)\obj\Debug\ShellSort(assisted).exe
+C:\data\ShellSort(assisted)\ShellSort(assisted)\obj\Debug\ShellSort(assisted).pdb
